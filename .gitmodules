@@ -1,0 +1,12 @@
+[submodule "reverse-proxy"]
+	path = reverse-proxy
+	url = https://github.com/MahmoudElsaka95/reverse-proxy.git
+[submodule "udagram-api-feed"]
+	path = udagram-api-feed
+	url = https://github.com/MahmoudElsaka95/udagram-api-feed.git
+[submodule "udagram-frontend"]
+	path = udagram-frontend
+	url = https://github.com/MahmoudElsaka95/udagram-frontend.git
+[submodule "udagram-api-users"]
+	path = udagram-api-users
+	url = https://github.com/MahmoudElsaka95/udagram-api-users.git
